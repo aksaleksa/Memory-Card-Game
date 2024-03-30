@@ -1,1 +1,3 @@
-The purpose of the game is to choose each fruit in a sequence without repeating choices until you reach the maximu score of 12. This project presented the opportunity for more react practice and is fully responsive.
+The purpose of the game is to choose each fruit in a sequence without repeating choices until you reach the maximum score of 12. This project presented the opportunity for more react practice and is fully responsive.
+
+See the live version here.
